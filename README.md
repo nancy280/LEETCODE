@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nancy280/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/nancy280/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nancy280/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/nancy280/LEETCODE/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/nancy280/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nancy280/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/nancy280/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nancy280/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/nancy280/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Stack
