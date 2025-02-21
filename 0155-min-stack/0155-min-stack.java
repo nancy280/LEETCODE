@@ -8,17 +8,11 @@ class MinStack {
     
     public void push(int val) {
         st.push(val);
-        int i=0;
-        while(!minst.isEmpty() && minst.peek()<val)
-        {
-            st.push(minst.pop());
-            i++;
-        }
+        if(minst.isEmpty())
         minst.push(val);
-        while(i>0)
+        else if(minst.peek()>=val)
         {
-            minst.push(st.pop());
-            i--;
+            minst.push(val);
         }
     }
     
@@ -26,18 +20,8 @@ class MinStack {
         if(st.isEmpty())
         return;
         int a=st.pop();
-        int i=0;
-        while(!minst.isEmpty() && minst.peek()!=a)
-        {
-            st.push(minst.pop());
-            i++;
-        }
+        if(a==minst.peek())
         minst.pop();
-        while(i>0)
-        {
-            minst.push(st.pop());
-            i--;
-        }
 
     }
     
