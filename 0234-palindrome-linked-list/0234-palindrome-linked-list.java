@@ -18,7 +18,17 @@ class Solution {
             slow=slow.next;
         }
         fast=head;
-        slow = reverse(slow);
+        ListNode curr=slow;
+        ListNode prev=null;
+
+        while(curr!=null)
+        {
+            ListNode next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
+        }
+        slow=prev;
         while(fast!=null && slow!=null)
         {
             if(fast.val!=slow.val)
@@ -29,19 +39,5 @@ class Solution {
             slow=slow.next;
         }
         return true;
-    }
-    public ListNode reverse(ListNode head)
-    {
-        ListNode curr=head;
-        ListNode prev=null;
-
-        while(curr!=null)
-        {
-            ListNode next=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=next;
-        }
-        return prev;
     }
 }
