@@ -1,29 +1,21 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int[] res=new int[nums1.length];
-        for(int x=0;x<nums1.length;x++)
+        Stack<Integer> st=new Stack<>();
+        HashMap<Integer,Integer> hm=new HashMap<>();
+
+        for(int i:nums2)
         {
-            int y=0;
-            for(;y<nums2.length;y++)
-            {
-                if(nums1[x]==nums2[y])
-                {
-                    break;
-                }
-            }
-            for(;y<nums2.length;y++)
-            {
-                if(nums1[x]<nums2[y])
-                {
-                    res[x]=nums2[y];
-                    break;
-                }
-            }
-            if(res[x]==0)
-            {
-                res[x]=-1;
-            }
+            while(!st.isEmpty() && st.peek()<i)
+            hm.put(st.pop(),i);
+
+            st.push(i);
         }
-        return res;
+
+        for(int i=0;i<nums1.length;i++)
+        {
+            nums1[i]=hm.getOrDefault(nums1[i],-1);
+        }
+
+        return nums1;
     }
 }
