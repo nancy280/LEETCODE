@@ -9,9 +9,10 @@ class Solution {
 
         if(max == -1)   return "";
 
-        if(max!=-1)
-        return max+""+max+""+max;
-
-        return "";
+        StringBuilder builder = new StringBuilder();
+        for(int i=0; i<3; i++){
+            builder.append(max);
+        }
+        return builder.toString();
     }
 }
