@@ -3,24 +3,19 @@ class Solution {
 
         int i=0;
         int j=s.length()-1;
-        char ch[] ={'a','e','i','o','u','A','E','I','O','U'};
+        String ch="aeiouAEIOU";
         char news[]=s.toCharArray();
-        ArrayList<Character> ar=new ArrayList<>();
-        for(char c: ch)
-        {
-            ar.add(c);
-        }
         while(i<j)
         {
-            if(!ar.contains(news[i]))
+            if(ch.indexOf(news[i])==-1)
             {
                 i++;
             }
-            else if(!ar.contains(news[j]))
+            else if(ch.indexOf(news[j])==-1)
             {
                 j--;
             }
-            if(ar.contains(news[i]) && ar.contains(news[j]))
+            if(ch.indexOf(news[i])!=-1 && ch.indexOf(news[j])!=-1)
             {
                 char temp=news[i];
                 news[i]=news[j];
