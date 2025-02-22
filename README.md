@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/nancy280/LEETCODE/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/nancy280/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/nancy280/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nancy280/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/nancy280/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 ## Recursion
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/nancy280/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/nancy280/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/nancy280/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 ## Math
