@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/nancy280/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0800-letter-case-permutation](https://github.com/nancy280/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/nancy280/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/nancy280/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nancy280/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -141,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nancy280/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/nancy280/LEETCODE/tree/master/0800-letter-case-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/nancy280/LEETCODE/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
