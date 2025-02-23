@@ -9,7 +9,6 @@ class Solution {
         if(newstr.length()==s.length())
         {
             ar.add(newstr);
-            System.out.println(newstr);
             return;
         }
         if(Character.isLetter(s.charAt(i)))
