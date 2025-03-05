@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nancy280/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nancy280/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0665-non-decreasing-array](https://github.com/nancy280/LEETCODE/tree/master/0665-non-decreasing-array) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nancy280/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1039-find-the-town-judge](https://github.com/nancy280/LEETCODE/tree/master/1039-find-the-town-judge) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nancy280/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nancy280/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nancy280/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nancy280/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/nancy280/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nancy280/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nancy280/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nancy280/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nancy280/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -185,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nancy280/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nancy280/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nancy280/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
