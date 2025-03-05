@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nancy280/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/nancy280/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0371-sum-of-two-integers](https://github.com/nancy280/LEETCODE/tree/master/0371-sum-of-two-integers) |
 ## Design
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/nancy280/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0800-letter-case-permutation](https://github.com/nancy280/LEETCODE/tree/master/0800-letter-case-permutation) |
 ## Graph
 |  |
