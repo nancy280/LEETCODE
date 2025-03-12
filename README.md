@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/nancy280/LEETCODE/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/nancy280/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/nancy280/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/nancy280/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nancy280/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nancy280/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2128-reverse-prefix-of-word](https://github.com/nancy280/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/nancy280/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/nancy280/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/nancy280/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/nancy280/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/nancy280/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nancy280/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0665-non-decreasing-array](https://github.com/nancy280/LEETCODE/tree/master/0665-non-decreasing-array) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/nancy280/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/nancy280/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/nancy280/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0800-letter-case-permutation](https://github.com/nancy280/LEETCODE/tree/master/0800-letter-case-permutation) |
 ## Graph
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nancy280/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/nancy280/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nancy280/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nancy280/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Prefix Sum
