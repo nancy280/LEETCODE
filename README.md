@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nancy280/LEETCODE/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/nancy280/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nancy280/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/nancy280/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/nancy280/LEETCODE/tree/master/0239-sliding-window-maximum) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/nancy280/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/nancy280/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/nancy280/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nancy280/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nancy280/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/nancy280/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
