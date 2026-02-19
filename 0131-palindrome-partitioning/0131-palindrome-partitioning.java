@@ -3,9 +3,9 @@ class Solution {
     private Map<String, List<List<String>>> memo = new HashMap<>();
 
     public List<List<String>> partition(String s) {
-        if (memo.containsKey(s)) {
-            return memo.get(s);
-        }
+        // if (memo.containsKey(s)) {
+        //     return memo.get(s);
+        // }
 
         List<List<String>> result = new ArrayList<>();
 
