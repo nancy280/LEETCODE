@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/nancy280/LEETCODE/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/nancy280/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nancy280/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0800-letter-case-permutation](https://github.com/nancy280/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/nancy280/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nancy280/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nancy280/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/nancy280/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nancy280/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Memoization
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/nancy280/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0800-letter-case-permutation](https://github.com/nancy280/LEETCODE/tree/master/0800-letter-case-permutation) |
 ## Bit Manipulation
 |  |
