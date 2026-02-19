@@ -1,34 +1,45 @@
 class Solution {
+
+    private Map<String, List<List<String>>> memo = new HashMap<>();
+
     public List<List<String>> partition(String s) {
+        if (memo.containsKey(s)) {
+            return memo.get(s);
+        }
+
         List<List<String>> result = new ArrayList<>();
-        backtrack(s, 0, new ArrayList<>(), result);
+
+        if (s.length() == 0) {
+            result.add(new ArrayList<>());
+            return result;
+        }
+
+        for (int i = 1; i <= s.length(); i++) {
+            String prefix = s.substring(0, i);
+
+            if (isPalindrome(prefix)) {
+                String suffix = s.substring(i);
+                List<List<String>> suffixPartitions = partition(suffix);
+
+                for (List<String> part : suffixPartitions) {
+                    List<String> newList = new ArrayList<>();
+                    newList.add(prefix);
+                    newList.addAll(part);
+                    result.add(newList);
+                }
+            }
+        }
+
+        memo.put(s, result);
         return result;
     }
 
-    private void backtrack(String s, int start, List<String> path, List<List<String>> result) {
-        if (start == s.length()) {
-            result.add(new ArrayList<>(path));
-            return;
-        }
-
-        for (int end = start + 1; end <= s.length(); end++) {
-            String substring = s.substring(start, end);
-            if (isPalindrome(substring)) {
-                path.add(substring);
-                backtrack(s, end, path, result);
-                path.remove(path.size() - 1);
-            }
-        }
-    }
-
     private boolean isPalindrome(String str) {
-        int left = 0, right = str.length() - 1;
-        while (left < right) {
-            if (str.charAt(left) != str.charAt(right)) {
-                return false;
-            }
-            left++;
-            right--;
+        int l = 0, r = str.length() - 1;
+        while (l < r) {
+            if (str.charAt(l) != str.charAt(r)) return false;
+            l++;
+            r--;
         }
         return true;
     }
