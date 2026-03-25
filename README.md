@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nancy280/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nancy280/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nancy280/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/nancy280/LEETCODE/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/nancy280/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nancy280/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nancy280/LEETCODE/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/nancy280/LEETCODE/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/nancy280/LEETCODE/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/nancy280/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/nancy280/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/nancy280/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
