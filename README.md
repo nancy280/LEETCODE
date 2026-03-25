@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/nancy280/LEETCODE/tree/master/0665-non-decreasing-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nancy280/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1039-find-the-town-judge](https://github.com/nancy280/LEETCODE/tree/master/1039-find-the-town-judge) |
+| [2965-find-missing-and-repeated-values](https://github.com/nancy280/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nancy280/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nancy280/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1039-find-the-town-judge](https://github.com/nancy280/LEETCODE/tree/master/1039-find-the-town-judge) |
+| [2965-find-missing-and-repeated-values](https://github.com/nancy280/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nancy280/LEETCODE/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/nancy280/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/nancy280/LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [2965-find-missing-and-repeated-values](https://github.com/nancy280/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/nancy280/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nancy280/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/nancy280/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
