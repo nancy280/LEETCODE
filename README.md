@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nancy280/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nancy280/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/nancy280/LEETCODE/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/nancy280/LEETCODE/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/nancy280/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/nancy280/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/nancy280/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nancy280/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/nancy280/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/nancy280/LEETCODE/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/nancy280/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nancy280/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1039-find-the-town-judge](https://github.com/nancy280/LEETCODE/tree/master/1039-find-the-town-judge) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nancy280/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/nancy280/LEETCODE/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/nancy280/LEETCODE/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nancy280/LEETCODE/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/nancy280/LEETCODE/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nancy280/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Rolling Hash
 |  |
@@ -229,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/nancy280/LEETCODE/tree/master/0135-candy) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nancy280/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
