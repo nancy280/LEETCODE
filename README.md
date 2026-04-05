@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nancy280/LEETCODE/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/nancy280/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/nancy280/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nancy280/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nancy280/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/nancy280/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nancy280/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/nancy280/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/nancy280/LEETCODE/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/nancy280/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nancy280/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nancy280/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/nancy280/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nancy280/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nancy280/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nancy280/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nancy280/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nancy280/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nancy280/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nancy280/LEETCODE/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nancy280/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/nancy280/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
