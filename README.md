@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nancy280/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/nancy280/LEETCODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nancy280/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/nancy280/LEETCODE/tree/master/0048-rotate-image) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancy280/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/nancy280/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/nancy280/LEETCODE/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/nancy280/LEETCODE/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nancy280/LEETCODE/tree/master/0131-palindrome-partitioning) |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nancy280/LEETCODE/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nancy280/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
