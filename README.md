@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nancy280/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nancy280/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nancy280/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/nancy280/LEETCODE/tree/master/0777-swap-adjacent-in-lr-string) |
 | [2128-reverse-prefix-of-word](https://github.com/nancy280/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 ## Recursion
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nancy280/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nancy280/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nancy280/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/nancy280/LEETCODE/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0800-letter-case-permutation](https://github.com/nancy280/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/nancy280/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/nancy280/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
