@@ -1,9 +1,11 @@
 class Solution {
     public int countBattleships(char[][] board) {
         int count=0;
-        for(int i=0;i<board.length;i++)
+        int n=board.length;
+        int m=board[0].length;
+        for(int i=0;i<n;i++)
         {
-            for(int j=0;j<board[i].length;j++)
+            for(int j=0;j<m;j++)
             {
                 if(board[i][j]=='X')
                 {
