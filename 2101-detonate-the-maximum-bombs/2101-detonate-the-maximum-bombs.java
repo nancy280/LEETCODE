@@ -14,14 +14,7 @@ class Solution {
         return max;
     }
 
-    public static int detonate(
-        int x,
-        int y,
-        int r,
-        int index,
-        int[][] ar,
-        int count,
-        boolean[] visited)
+    public static int detonate(int x,int y,int r,int index,int[][] ar,int count,boolean[] visited)
     {
         visited[index] = true;
         count++;
@@ -32,15 +25,7 @@ class Solution {
                isIncluded(ar[i][0], ar[i][1], ar[i][2], x, y, r))
             {
 
-                count += detonate(
-                    ar[i][0],
-                    ar[i][1],
-                    ar[i][2],
-                    i,
-                    ar,
-                    0,              
-                    visited
-                );
+                count += detonate(ar[i][0],ar[i][1],ar[i][2],i,ar,0,visited);
 
             }
         }
