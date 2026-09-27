@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/nancy280/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nancy280/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nancy280/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0419-battleships-in-a-board](https://github.com/nancy280/LEETCODE/tree/master/0419-battleships-in-a-board) |
 | [0496-next-greater-element-i](https://github.com/nancy280/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nancy280/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/nancy280/LEETCODE/tree/master/0539-minimum-time-difference) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/nancy280/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nancy280/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/nancy280/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0419-battleships-in-a-board](https://github.com/nancy280/LEETCODE/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/nancy280/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nancy280/LEETCODE/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/nancy280/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nancy280/LEETCODE/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nancy280/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0419-battleships-in-a-board](https://github.com/nancy280/LEETCODE/tree/master/0419-battleships-in-a-board) |
 | [2965-find-missing-and-repeated-values](https://github.com/nancy280/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
