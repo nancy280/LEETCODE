@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/nancy280/LEETCODE/tree/master/0665-non-decreasing-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nancy280/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1039-find-the-town-judge](https://github.com/nancy280/LEETCODE/tree/master/1039-find-the-town-judge) |
+| [2101-detonate-the-maximum-bombs](https://github.com/nancy280/LEETCODE/tree/master/2101-detonate-the-maximum-bombs) |
 | [2965-find-missing-and-repeated-values](https://github.com/nancy280/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nancy280/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/nancy280/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0539-minimum-time-difference](https://github.com/nancy280/LEETCODE/tree/master/0539-minimum-time-difference) |
+| [2101-detonate-the-maximum-bombs](https://github.com/nancy280/LEETCODE/tree/master/2101-detonate-the-maximum-bombs) |
 | [2965-find-missing-and-repeated-values](https://github.com/nancy280/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/nancy280/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/nancy280/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nancy280/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [2101-detonate-the-maximum-bombs](https://github.com/nancy280/LEETCODE/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nancy280/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nancy280/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/nancy280/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [2101-detonate-the-maximum-bombs](https://github.com/nancy280/LEETCODE/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -278,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nancy280/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Graph Theory
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/nancy280/LEETCODE/tree/master/2101-detonate-the-maximum-bombs) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/nancy280/LEETCODE/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
