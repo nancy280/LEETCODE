@@ -42,7 +42,7 @@ class Solution {
                     ar[i][2],
                     i,
                     ar,
-                    0,              // IMPORTANT: 0, not count
+                    0,              
                     visited
                 );
 
@@ -62,8 +62,4 @@ class Solution {
         return dx * dx + dy * dy <= (long) r2 * r2;
     }
 
-    public static void print(List<List<Integer>> arr)
-    {
-        System.out.println(arr);
-    }
 }
