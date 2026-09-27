@@ -1,6 +1,5 @@
 class Solution {
     public int maximumDetonation(int[][] bombs) {
-        ArrayList<List<Integer>> arr = new ArrayList<List<Integer>>();
         int max = 0;
 
         for(int i = 0; i < bombs.length; i++)
@@ -8,7 +7,7 @@ class Solution {
             boolean[] visited = new boolean[bombs.length];
 
             max = Math.max(
-                detonate(arr, bombs[i][0], bombs[i][1], bombs[i][2], i, bombs, 0, visited),
+                detonate( bombs[i][0], bombs[i][1], bombs[i][2], i, bombs, 0, visited),
                 max
             );
         }
@@ -16,7 +15,6 @@ class Solution {
     }
 
     public static int detonate(
-        ArrayList<List<Integer>> arr,
         int x,
         int y,
         int r,
@@ -33,10 +31,8 @@ class Solution {
             if(i != index && !visited[i] &&
                isIncluded(ar[i][0], ar[i][1], ar[i][2], x, y, r))
             {
-                arr.add(Arrays.asList(ar[i][0], ar[i][1], ar[i][2]));
 
                 count += detonate(
-                    arr,
                     ar[i][0],
                     ar[i][1],
                     ar[i][2],
@@ -46,7 +42,6 @@ class Solution {
                     visited
                 );
 
-                arr.remove(Arrays.asList(ar[i][0], ar[i][1], ar[i][2]));
             }
         }
 
